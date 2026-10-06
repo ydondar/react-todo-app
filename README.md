@@ -17,6 +17,10 @@ It includes filtering, search, dark mode, LocalStorage persistence, inline editi
 
 ![Dark Mode](./assets/dark-mode.png)
 
+### 📱Responsive Design
+
+![Responsive Design](/.assets/responsive.png)
+
 ## 🚀 Features
 
 - Add, edit, and delete todos
