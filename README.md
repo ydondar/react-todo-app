@@ -19,7 +19,7 @@ It includes filtering, search, dark mode, LocalStorage persistence, inline editi
 
 ### 📱Responsive Design
 
-![Responsive Design](/.assets/responsive.png)
+![Responsive Design](./assets/responsive.png)
 
 ## 🚀 Features
 
